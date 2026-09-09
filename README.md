@@ -16,11 +16,11 @@
 
 ### About
 
-Frontend developer based in Bharatpur, Chitwan, Nepal. I build and ship React and Next.js applications for clients across Nepal, Australia, the UAE and the US, ranging from a parenting platform to a classifieds marketplace to fintech.
+Frontend developer based in Bhaktapur, Nepal. I build and ship React Native, React and Next.js applications for clients across Nepal, Australia, the UAE and the US, ranging from a parenting platform to a classifieds marketplace to fintech.
 
 Outside of client work I spend my time on machine learning and AI agents, and I have published peer reviewed research on financial behaviour and banking fraud. I like problems that sit between engineering and data.
 
-- Working with **React, TypeScript, Next.js** day to day
+- Working with **React Native, React, TypeScript, Next.js** day to day
 - Currently learning **AI agents, LangChain workflows and applied machine learning**
 - Open to frontend and full stack roles, remote or hybrid
 - Reach me through [LinkedIn](https://www.linkedin.com/in/sujit-kumar-libi-a0119b160/) or [sujitlibi.com.np](https://www.sujitlibi.com.np)
