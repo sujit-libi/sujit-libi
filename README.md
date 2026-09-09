@@ -84,8 +84,8 @@ More detail and live demos at [sujitlibi.com.np](https://www.sujitlibi.com.np).
 | [pathfinder-algorithm-visualizer](https://github.com/sujit-libi/pathfinder-algorithm-visualizer) | Animated BFS and DFS traversal across a grid, built in React |
 | [javascript-mini-project-collection](https://github.com/sujit-libi/javascript-mini-project-collection) | Small vanilla JavaScript builds, one folder per project |
 
-
 More JavaScript Project with live demos at [Javascript Project Collection](https://sujit-libi.github.io/javascript-project-collection-portfolio/).
+
 ---
 
 ### Publications
