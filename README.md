@@ -114,7 +114,7 @@ Social Science Research Network, November 2023
 ---
 
 <p align="center">
-  <sub>Open to work · Bharatpur-11, Chitwan, Nepal · Available remote</sub>
+  <sub>Open to work · Bhaktapur-11, Bhaktapur, Nepal · Available remote | onsite</sub>
 </p>
 
 <!--
