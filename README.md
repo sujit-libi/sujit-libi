@@ -103,9 +103,22 @@ Social Science Research Network, November 2023
 ### GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sujit-libi&show_icons=true&hide_border=true&title_color=C9A961&icon_color=C9A961&text_color=8894a6&bg_color=0F1520" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit-libi&layout=compact&hide_border=true&title_color=C9A961&text_color=8894a6&bg_color=0F1520" alt="Top languages">
+  <img src="./metrics/overview.svg" alt="GitHub overview">
 </p>
+
+<p align="center">
+  <img src="./metrics/languages.svg" alt="Most used languages" width="49%">
+  <img src="./metrics/activity.svg" alt="Contribution calendar" width="49%">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/sujit-libi/sujit-libi/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/sujit-libi/sujit-libi/output/snake-light.svg">
+  <img alt="Contribution snake"
+       src="https://raw.githubusercontent.com/sujit-libi/sujit-libi/output/snake-light.svg">
+</picture>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-libi&hide_border=true&background=0F1520&stroke=27303F&ring=C9A961&fire=C9A961&currStreakLabel=C9A961&sideLabels=8894a6&dates=5B6880" alt="Contribution streak">
