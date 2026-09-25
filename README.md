@@ -111,18 +111,18 @@ Social Science Research Network, November 2023
   <img src="./metrics/activity.svg" alt="Contribution calendar" width="49%">
 </p>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/sujit-libi/sujit-libi/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/sujit-libi/sujit-libi/output/snake-light.svg">
   <img alt="Contribution snake"
        src="https://raw.githubusercontent.com/sujit-libi/sujit-libi/output/snake-light.svg">
-</picture>
+</picture> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-libi&hide_border=true&background=0F1520&stroke=27303F&ring=C9A961&fire=C9A961&currStreakLabel=C9A961&sideLabels=8894a6&dates=5B6880" alt="Contribution streak">
-</p>
+</p> -->
 
 ---
 
